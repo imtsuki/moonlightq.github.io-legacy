@@ -1,4 +1,0 @@
----
-title: about
-layout: page
----
