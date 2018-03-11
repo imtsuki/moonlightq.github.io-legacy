@@ -117,7 +117,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  about: /about.md
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
